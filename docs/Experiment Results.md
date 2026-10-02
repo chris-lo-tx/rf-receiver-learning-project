@@ -1,0 +1,3 @@
+Receiver Bandwidth Experiment Tuned RTL-SDR V3 to an FM broadcast centered at 100.7 MHz using WFM demodulation. Receiver bandwidth was varied from approximately 200 kHz down to 50 kHz while other settings remained unchanged.
+As receiver bandwidth decreased, audio quality noticeably degraded. On the spectrum display, the narrower receiver passband excluded a significant portion of the received FM signal.
+Conclusion: A modulated RF signal occupies bandwidth around its assigned center frequency. A receiver filter must pass sufficient bandwidth to preserve the information contained in the modulated signal. Excessively narrowing the receiver bandwidth removes useful spectral content and degrades demodulation.
