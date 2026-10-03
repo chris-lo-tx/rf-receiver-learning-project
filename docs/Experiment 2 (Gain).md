@@ -1,1 +1,3 @@
-
+The receiver was tuned to the same 100.7 MHz FM station while RF gain was varied through low, medium, and high settings. At low gain, the desired signal peak increased while the general noise floor remained relatively unchanged. 
+At medium gain, both the desired signal and noise floor increased, but the received audio remained clean and the station appeared stronger. At high gain, the noise floor increased substantially and received audio quality degraded with noise-like distortion.
+Conclusion: Increasing receiver gain can improve visibility and reception of a weak signal, but excessive gain also amplifies noise and unwanted signals and can reduce receiver headroom or cause overload. The best operating point is therefore not necessarily the maximum available gain.
