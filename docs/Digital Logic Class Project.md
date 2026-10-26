@@ -30,7 +30,7 @@ W: Weak signal
 M: Medium signal
 S: Strong signal
 
-My initial truth table reveals a possible issue with invalid outputs. Instead of using don't cares, lets add an additional condition. We will add an Error output led to ensure all outputted signal readings are valid. 
+My initial truth table reveals a possible issue with invalid outputs. Instead of using don't cares, lets add an additional condition. We will add an Error output led to ensure all outputted signal readings are valid.
 <img width="636" height="191" alt="image" src="https://github.com/user-attachments/assets/ea83f66e-48a0-4c72-968b-708a263cbf62" />
 
 Note: We can define a common expression here. 
