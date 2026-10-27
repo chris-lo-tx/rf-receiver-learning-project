@@ -41,4 +41,5 @@ W = AB’C’
 M = ABC’   -----------> M = XC’
 S = ABC     -----------> S = XC
 
+Realizing working in GitHub is not so fun, switching to word doc. Will try to organize data later.....
 
